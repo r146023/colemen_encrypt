@@ -1,0 +1,11 @@
+# Example target list for colemen_encrypt.
+# One path per line.
+# Empty lines and comments are ignored.
+
+./Documents/private
+./Pictures/id-card.png
+./Receipts
+
+# Windows examples are valid when running on Windows:
+# C:\Users\Colemen\Documents\Private
+# D:\Archive\Receipts
