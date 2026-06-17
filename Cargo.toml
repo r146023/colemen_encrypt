@@ -1,11 +1,10 @@
 [package]
 name = "colemen_encrypt"
-version = "0.1.0"
+license = "Apache-2.0"
+repository = "https://github.com/r146023/colemen_encrypt"
 edition = "2021"
 authors = ["Colemen Atwood"]
-license = "MIT"
 description = "A conservative, authenticated, password-based file encryption/decryption CLI with machine-readable reporting."
-repository = ""
 
 [dependencies]
 aes-gcm-siv = "0.11"
